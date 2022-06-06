@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <div class="main-div">
+
+<!--     copy The whole content and only replace The Heading and The p   -->
+
+        <div class="p-div">
+                <h2 class="main-heading">Education In Afghanistan</h2>'
+                <p class="main-p">.       Unit test From  the  description  above, we see  that  the  tests  are  automated,  and they should  ensure  that a small section  of  the  application  should  be errorfree. It is important  to  understand  that this type  of  test is not the  only use. But it is the  basic  one. one  that software  developers usuallalt.</p>
+        </div>
+
+    </div>
