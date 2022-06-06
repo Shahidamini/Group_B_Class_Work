@@ -1,0 +1,29 @@
+<!DOCTYPE html>j
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+
+
+    <div class="main-div">
+
+<!--     copy The whole content and only replace The Heading and The p   -->
+
+        <div class="p-div">
+                <h2 class="main-heading">filezela</h2>
+                <p class="main-p">FileZilla Server is an open-source and free server application for Windows. It can administer a local server as well as a remote FTP server.</p>
+        </div>
+
+    </div>
+   
+    
+
+
+    
+</body>
+</html>
